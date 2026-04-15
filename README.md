@@ -209,7 +209,13 @@ The codes for APIs are confedential and cannot be post on my github account.
   <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-6A5ACD?style=for-the-badge" />
 </p>
 
+
 ---
+
+
+<h2 align="center"><b><i>Mathematical Problem Solving | Algorithm Design | Real-World Functional Pipelines</i></b></h1>
+
+
 
 
 <p align="center">
@@ -219,8 +225,5 @@ The codes for APIs are confedential and cannot be post on my github account.
 
 
 ---
-
-
-<h2 align="center"><b><i>Mathematical Problem Solving | Algorithm Design | Real-World Functional Pipelines</i></b></h1>
 
 
