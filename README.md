@@ -163,7 +163,7 @@ The codes for APIs are confedential and cannot be post on my github account.
 
 
 
-<h2 align="center"><b>Math Problem Solving | Algorithm Design | Real-World Functional Pipelines</b></h1>
+<h2 align="center"><b>🧮 Math Problem Solving | 🧩 Algorithm Design | ⚙️ Real-World Functional Pipelines</b></h1>
 
 
 
