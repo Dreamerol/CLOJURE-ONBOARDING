@@ -8,21 +8,46 @@
 
 <div>
 
+
+
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+
+</a>
+
+</div>
+
+
+
+
+
+
 <br>
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
 
 
 
-  
----
+
+
+
+
+
+
 
 ## 📖 Overview
 This repository contains exercises and projects for learning **functional programming** in Clojure, focusing on solving **mathematical and algorithmic tasks** using a functional approach.
@@ -47,16 +72,6 @@ The goal of this project is to practice functional programming concepts such as:
 - **📚 Collections and Sequences** – Mastering lists, vectors, maps, and sets for **mathematical computations and functional data manipulation**.
 
 
----
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
-
 
 
 ---
@@ -80,15 +95,7 @@ By completing this journey, learners not only improve their Clojure skills but a
 This repository is ideal for anyone looking to **bridge the gap between theoretical knowledge and real-world application**, making it a strong showcase for **internship or junior developer opportunities**.
 
 
----
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
 
 
 ---
@@ -121,15 +128,6 @@ Key objectives:
 This experience demonstrates how FP concepts can improve **system integration, maintainability, and rapid development of backend services**.
 
 
----
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
 
 
 ---
@@ -157,22 +155,10 @@ The codes for APIs are confedential and cannot be post on my github account.
 
 
 
-----
-
-
-<h2 align="center">⚡ Tech Stack & Skills</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
-
-
-
-
 <br>
+
+
+
 
 
 <h2 align="center"><b>Math Problem Solving | Algorithm Design | Real-World Functional Pipelines</b></h1>
