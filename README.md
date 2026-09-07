@@ -12,7 +12,11 @@
 
 <h2 align="center"><b>Clojure Functional Programming | Math & Algorithm Challenges</b></h2>
 
+
+
 <br>
+
+
 
 ![Functional Programming](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/clojure.jpg)
 
@@ -23,10 +27,11 @@
 
 
 
-
-
-
 <br>
+<br>
+<br>
+
+
 
 
 
